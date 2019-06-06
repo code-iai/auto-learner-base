@@ -1,5 +1,5 @@
-narrative2vec == 2.0.1
-grasping-learning-data-generator == 1.0.2
+narrative2vec == 4.0.1
+grasping-learning-data-generator == 2.1.0
 PyYAML == 3.12
 nltk == 3.2.2
 graphviz == 0.5.2
